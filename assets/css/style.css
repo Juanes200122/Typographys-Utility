@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Piximisa'; 
+    src: url('../../font/Piximisa-Font/Piximisa.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #191919;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px;
+    font-family: 'Piximisa', sans-serif;
+    color: rgb(232, 232, 232);
+    letter-spacing: 5px;
+}
